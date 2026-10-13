@@ -1,0 +1,29 @@
+
+HUMAN TP53 SEQUENCE ANALYSIS REPORT
+-----------------------------------
+
+NCBI mRNA Accession: NM_000546.6
+NCBI Protein Accession: NP_000537.3
+
+NUCLEOTIDE ANALYSIS
+-------------------
+Transcript Length: 2512
+Adenine (A): 532
+Thymine (T): 639
+Guanine (G): 621
+Cytosine (C): 720
+
+GC Content: 53.38%
+AT Content: 46.62%
+GC-to-AT Ratio: 1.145
+
+PROTEIN ANALYSIS
+----------------
+Coding Sequence Length: 1182
+Protein Length: 393
+First 50 Amino Acids: MEEPQSDPSVEPPLSQETFSDLWKLLPENNVLSPLPSQAMDDLMLSPDDI
+
+REFERENCE VALIDATION
+--------------------
+NCBI Reference Protein Length: 393
+Protein Sequence Match: True
